@@ -3,7 +3,7 @@ import MyPortfolio from "../assets/projects/My_Portfolio.jpg";
 
 export const HERO_CONTENT = `I am a passionate .NET developer with a strong focus on creating robust and scalable RESTful APIs and backend solutions. After three years of self-study and completing a bootcamp, I honed my skills in technologies such as C# and .NET, along with MS SQL Server, React.js, and Python. I have also completed several certifications, further solidifying my knowledge in these areas. Additionally, I possess foundational and solid knowledge in machine learning, having undertaken specific projects that enhanced my understanding of data-driven solutions. I am eager to leverage my expertise to craft innovative solutions that drive business growth, enhance the robustness of systems, and improve user experiences. As a newcomer to the market, I look forward to contributing my creativity and technical knowledge to impactful projects and collaborating with like-minded professionals.`;
 
-export const ABOUT_TEXT = `Before making the leap into programming, I used to be a lawyer and later an EU Tech Policy Advisor. After three years of self-study while working in Brussels and completing a Software Development bootcamp, I successfully entered the programming field by dedicating my after-work hours to study and practice. My previous corporate experience provides me with a valuable perspective that I apply to my work as a developer. Throughout my journey, I have gained proficiency in various programming languages, including Python, C#, and JavaScript, and have explored diverse programming concepts and algorithms. Currently, I am focused on building web APIs and backend servers using .NET, and I aspire to further develop my skills as a developer while continuing to learn about new concepts in the field.
+export const ABOUT_TEXT = `Before making the leap into programming, I used to be a lawyer and later an EU Tech Policy Advisor. After three years of self-study while working in Brussels and completing a Software Development bootcamp, I successfully entered the programming field by dedicating my after-work hours to study and practice. My previous corporate experience provides me with a valuable perspective that I apply to my work as a developer. Throughout my journey, I have gained proficiency in various programming languages, including Python, C#, and JavaScript, and have explored diverse programming concepts and algorithms. Currently, I am focused on building web APIs and backend servers using ASP.NET Core, and I aspire to further develop my skills as a developer while continuing to learn about new concepts in the field.
 `;
 
 export const EXPERIENCES = [
@@ -11,7 +11,7 @@ export const EXPERIENCES = [
     year: "2024 - 2025",
     role: "Software Developer",
     company: "PeopleCert",
-    description: `I attended a full-time intensive programming bootcamp, where I was exposed to various technologies and programming languages. During the bootcamp, I completed multiple projects and earned certifications to validate my skills. For my final project, I led a team of six, taking on the role of backend lead. In this capacity, I facilitated the connection and communication between the backend and the frontend, while also contributing code to the frontend development.`,
+    description: `I attended a full-time intensive programming bootcamp, where I was exposed to various technologies and programming languages. During the bootcamp, I completed multiple projects and earned certifications to validate my skills. For my final project, I wrote the backend for a certification website and led the project's team comprising six developers in total. In this capacity, I facilitated the connection and communication between the backend and the frontend, while also contributing code to the frontend development.`,
     technologies: ["C#", "ASP .NET", "JavaScript", "React.js", "MS SQL", "HTML-CSS", "Postman"],
   },
   {
@@ -37,7 +37,7 @@ export const PROJECTS = [
     image: CertiLand,
     link: "https://github.com/Gikonst/MyExamsBackend",
     description:
-      "A fully functional certification website with features like exams and certifications, features' editing by the admin, and user authentication.",
+      "A fully functional certification website with features like exams and certifications, feature editing by the admin and user authentication.",
     technologies: ["C#", "ASP .NET", "Entity Framework", "Identity-JWT", "MS SQL", "React.js"],
   },
   {
