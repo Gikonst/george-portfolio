@@ -1,7 +1,6 @@
 import CertiLand from "../assets/projects/CertiLandProject.png";
 import MyPortfolio from "../assets/projects/My_Portfolio.jpg";
-import SeoImage from "../components/seoImage";
-import preview_image from "../assets/preview_image.jpg";
+
 
 export const HERO_CONTENT = `I am a passionate .NET developer with a strong focus on creating robust and scalable RESTful APIs and backend solutions. After three years of self-study and completing a bootcamp, I honed my skills in technologies such as C# and .NET, along with MS SQL Server, React.js, and Python. I have also completed several certifications, further solidifying my knowledge in these areas. Additionally, I possess foundational and solid knowledge in machine learning, having undertaken specific projects that enhanced my understanding of data-driven solutions. I am eager to leverage my expertise to craft innovative solutions that drive business growth, enhance the robustness of systems, and improve user experiences. As a newcomer to the market, I look forward to contributing my creativity and technical knowledge to impactful projects and collaborating with like-minded professionals.`;
 
@@ -57,6 +56,4 @@ export const CONTACT = {
   email: "gskonstantin@hotmail.com",
 };
 
-export const Head = () => {
-  <SeoImage customImage={"https://gikonst.github.io/george-portfolio" + preview_image}/>
-}
+
