@@ -6,7 +6,7 @@ function SeoMeta() {
     <HelmetProvider>
     <Helmet>
       <meta property="og:type" content="website"/>
-      <meta property="og:image" content="https://gikonst.github.io/george-portfolio/previewImage.png" />
+      <meta property="og:image" content="https://gikonst.github.io/george-portfolio/preview.png" />
       <meta property="og:type" content="website" />
       <meta property="og:url" content="https://gikonst.github.io/george-portfolio"/>
       <meta property="og:title" content="George's Portfolio Website"/>
